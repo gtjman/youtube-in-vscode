@@ -3,6 +3,7 @@
   "displayName": "Youtube in vscode",
   "description": "Search youtube videos while coding in vscode",
   "publisher": "gtjman",
+  "icon": "marketplaceIcon.png",
   "version": "0.0.1",
   "repository": {
     "type": "git",
