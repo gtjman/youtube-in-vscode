@@ -15,7 +15,6 @@
     "Other"
   ],
   "activationEvents": [ 
-    "*",
     "onView:youtube-in-vscode.youtubeSearchWebView"
   ],
   "main": "./out/extension.js",
